@@ -1,8 +1,8 @@
 # recursos
 Una lista de recursos útiles
 ## Secciones
-[Markdown](#markdown)
-[Graphviz](#graphviz)
+[Markdown](#markdown)  
+[Graphviz](#graphviz)  
 
 
 ### Markdown
