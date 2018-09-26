@@ -3,9 +3,9 @@ Una lista de recursos útiles
 ## Secciones
 [Markdown](#markdown)  
 [Graphviz](#graphviz)  
-[Manuales](#manuales)
-[Muelles](#muelles)
-[Cables](#cables)
+[Manuales](#manuales)  
+[Muelles](#muelles)  
+[Cables](#cables)  
 
 
 ### Markdown
