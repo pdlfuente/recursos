@@ -28,3 +28,4 @@ Una lista de recursos útiles
 
 ### Electrónica
 [Online Potentiometer Handbook](https://www.bourns.com/pdfs/OnlinePotentiometerHandbook.pdf)
+[Best of the Trimer Primer] (https://www.bourns.com/docs/technical-documents/technical-library/trimmers/technical-articles/trmrpmr.pdf?sfvrsn=5c163e40_0)
