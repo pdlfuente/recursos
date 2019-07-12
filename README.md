@@ -25,3 +25,6 @@ Una lista de recursos útiles
 
 ### Cables
 [Calibre de alambre estadounidense](https://es.wikipedia.org/wiki/Calibre_de_alambre_estadounidense)
+
+### Electrónica
+[Online Potentiometer Handbook](https://www.bourns.com/pdfs/OnlinePotentiometerHandbook.pdf)
