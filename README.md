@@ -6,7 +6,6 @@ Una lista de recursos útiles
 [Manuales](#manuales)  
 [Muelles](#muelles)  
 [Cables](#cables)
-
 [Expresiones regulares](#regex)
 
 
