@@ -5,7 +5,9 @@ Una lista de recursos útiles
 [Graphviz](#graphviz)  
 [Manuales](#manuales)  
 [Muelles](#muelles)  
-[Cables](#cables)  
+[Cables](#cables)
+[Expresiones regulares](#regex)
+
 
 
 ### Markdown
@@ -30,3 +32,6 @@ Una lista de recursos útiles
 [Online Potentiometer Handbook](https://www.bourns.com/pdfs/OnlinePotentiometerHandbook.pdf)
 
 [Best of the Trimer Primers](https://www.bourns.com/docs/technical-documents/technical-library/trimmers/technical-articles/trmrpmr.pdf?sfvrsn=5c163e40_0)
+
+### Expresiones regulares
+[Online regex tester and debugger](http://regex101.com/)
