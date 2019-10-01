@@ -34,4 +34,5 @@ Una lista de recursos útiles
 [Best of the Trimer Primers](https://www.bourns.com/docs/technical-documents/technical-library/trimmers/technical-articles/trmrpmr.pdf?sfvrsn=5c163e40_0)
 
 ### Expresiones regulares
-[Online regex tester and debugger](http://regex101.com/)
+[Online regex tester and debugger](http://regex101.com/)    
+[The ultimate guide to using the python regex module](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&ved=2ahUKEwjJnPu73frkAhWZEMAKHbqMBVgQFjAQegQIARAB&url=https%3A%2F%2Ftowardsdatascience.com%2Fthe-ultimate-guide-to-using-the-python-regex-module-69aad9e9ba56&usg=AOvVaw17nHZg7Q2Uj8j351labBAK)
