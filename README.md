@@ -32,6 +32,7 @@ Una lista de recursos útiles
 [Online Potentiometer Handbook](https://www.bourns.com/pdfs/OnlinePotentiometerHandbook.pdf)
 
 [Best of the Trimer Primers](https://www.bourns.com/docs/technical-documents/technical-library/trimmers/technical-articles/trmrpmr.pdf?sfvrsn=5c163e40_0)
+[Guide to using ferrite beads in a PCB](https://files.resources.altium.com/sites/default/files/2022-05/Guide%20to%20Using%20Ferrite%20Beads%20in%20a%20PCB.pdf)
 
 ### Expresiones regulares
 [Online regex tester and debugger](http://regex101.com/)    
